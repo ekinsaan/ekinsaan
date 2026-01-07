@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/78ca5740-b51f-4f30-8aa4-7b71ca7d542e" />
+
 **ekinsaan/ekinsaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
